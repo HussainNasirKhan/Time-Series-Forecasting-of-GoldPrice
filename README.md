@@ -1,6 +1,5 @@
 📈 Time Series Forecasting of Gold Price 📈
 
-Description:
 This GitHub repository 📁 is dedicated to the task of forecasting the price of gold using time series analysis and predictive modeling techniques. Gold has been a valuable asset and an important economic indicator for centuries, making accurate price predictions crucial for investors, economists, and financial analysts. This project offers a comprehensive exploration of gold price data and the development of predictive models to anticipate future trends.
 
 Key Features and Components:
